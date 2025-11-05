@@ -35,11 +35,13 @@ Hints:
 - Import the parser functions from "./utils/parser.js"
 - Import lodash (the third-party package you installed)
 
-Example:
+*/
+
   import { add, subtract } from "./utils/operations.js";
   import { parseNumbers, isValidOperation } from "./utils/parser.js";
   import _ from "lodash";
 
+  /*
 ===================================================================
 TODO 2: Parse Command Line Arguments (in calculator.js)
 ===================================================================
