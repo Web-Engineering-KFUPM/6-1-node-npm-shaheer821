@@ -56,9 +56,12 @@ Hints:
   - process.argv[3+] are the numbers
 
 Example:
+
+
+*/
   const operation = process.argv[2];
   const numbers = process.argv.slice(3);
-
+/*
 ===================================================================
 TODO 3: Validate Input and Calculate (in calculator.js)
 ===================================================================
